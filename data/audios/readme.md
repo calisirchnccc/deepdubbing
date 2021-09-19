@@ -1,0 +1,1 @@
+ses dönüşümü için kullanılacak wav mp3, flac dosyaları

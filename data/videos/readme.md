@@ -1,0 +1,1 @@
+yüz mimiklerini içeren videolar (ses ve metin olarak da bulunan)

@@ -1,0 +1,1 @@
+metin dönüşümü için ses dosyalarına ait metin dosyaları
